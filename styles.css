@@ -1,0 +1,85 @@
+a {
+border: solid;
+border-color: black;
+;
+}
+
+.home {
+  background-color: rgb(184, 153, 184);
+}
+
+h1 {
+  font-style: italic;
+}
+
+.h2-first {
+  text-decoration: underline;
+}
+
+
+.description {
+  color: rgb(25, 6, 35);
+  border: solid;
+  border-color: black;
+  width: 450px;
+}
+.parent {
+  padding-left: 415px;
+  padding-top: 40px;
+}
+
+.second-page {
+  background-color: blanchedalmond;
+}
+
+.selections {
+  border: solid;
+  border-color: turquoise;
+  width: 125px;
+}
+
+.submit-button {
+  background-color: rgb(14, 161, 187);
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid black;
+}
+
+ul {
+  border: solid;
+  border-color: black;
+}
+
+li {
+  border-bottom: 1px solid black;
+}
+
+.third-page {
+  background-color: cadetblue;
+}
+
+.goodbye {
+  padding-left: 260px;
+}
+.first {
+  color: rgb(163, 191, 199);
+  background-color: rgb(69, 95, 163);
+}
+
+.second {
+  color: rgb(230, 247, 252);
+  background-color: rgb(69, 95, 163);
+}
+
+.third {
+  color: rgb(200, 73, 168);
+  background-color: rgb(69, 95, 163);
+}
